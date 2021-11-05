@@ -1,7 +1,21 @@
-# Awesome Project Build with TypeORM
+<h1 align="center">Projeto NodeJS</h1>
 
-Steps to run this project:
+<p align="center"> 📚 Projeto criado em sala de aula. 📚</p>
 
-1. Run `npm i` command
-2. Setup database settings inside `ormconfig.json` file
-3. Run `npm start` command
+# Descrição do Projeto
+
+Projeto desenvolvido em sala de aula com o objetivo de exercitar os conhecimentos de NodeJS. O projeto em questão envolve o desenvolvimento de uma API de cadastro de tarefas.
+
+# Tecnologias utilizadas
+
+Foram utilizadas as seguintes ferramentas neste projeto:
+
+- [NodeJS](https://nodejs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [TypeORM](https://typeorm.io/)
+
+# Status do Projeto
+
+<h4 align="center"> 
+	✔️  Finalizado.  ✔️
+</h4>
